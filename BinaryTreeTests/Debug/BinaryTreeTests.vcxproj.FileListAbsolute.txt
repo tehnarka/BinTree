@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\BinTree\BinaryTreeTests\Debug\BinaryTreeTests.vcxproj.CopyComplete
+E:\C++\Olyas\BinTree\BinaryTreeTests\Debug\BinaryTreeTests.vcxproj.CopyComplete

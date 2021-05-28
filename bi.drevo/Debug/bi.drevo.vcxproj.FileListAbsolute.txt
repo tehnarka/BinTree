@@ -1,1 +1,4 @@
 C:\Users\User\source\repos\bi.drevo\Debug\bi.drevo.exe
+C:\Users\User\source\repos\BinTree\bi.drevo\Debug\bi.drevo.exe
+E:\C++\Olyas\BinTree\bi.drevo\Debug\bi.drevo.exe
+E:\C++\Olyas\BinTree\bi.drevo\Debug\bi.drevo.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>E:\C++\Olyas\BinTree\bi.drevo\Debug\BinaryTreeTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="BinaryTree.VerifyingRootValue" Duration="1" />
+    <TestDuration Test="BinaryTreeInsertTest.VerifyingRootValue" Duration="1" />
+    <TestDuration Test="BinaryTreeSearchTest.VerifyingRootValue" Duration="1" />
+    <TestDuration Test="BinaryTreeSearchTest.VerifyingSearchValue" Duration="1" />
+    <TestDuration Test="BinaryTreeSearchTest.VerifyingFalseSearchValue" Duration="1" />
+    <TestDuration Test="BinaryTreeInsertTest.VerifyingLeftValue" Duration="1" />
+    <TestDuration Test="BinaryTreeInsertTest.VerifyingRightValue" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

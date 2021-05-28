@@ -1,12 +1,24 @@
 #include "pch.h"
 #include <iostream>
+#include "../bi.drevo/Source.cpp"
 
-TEST(destroy_tree, TestDel) {
-  EXPECT_EQ(1, 10, 25);
-  EXPECT_TRUE(NULL);
-}
+TEST(ololo, kekw) {
+	// Arrange
+	btree* tree = new btree();
+	// Act
+	tree->insert(10);
+	// Assert
+	int actual = tree->root->value;
+	EXPECT_EQ(actual, 10);
 
-TEST(preorder_print, Testpr) {
-	EXPECT_EQ(1, 10, 25, 8);
-	EXPECT_TRUE(1, 10, 25, 8);
 }
+/*TEST(preorder_print, Testpr) {
+	EXPECT_EQ(10, 10);
+}*/
+
+/*TEST(search, Testpr) {
+	btree* tree = new btree();
+	tree->insert(10);
+	EXPECT_EQ(tree->search(0),10);
+}
+*/

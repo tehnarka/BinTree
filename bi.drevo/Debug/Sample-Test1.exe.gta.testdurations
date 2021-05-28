@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\User\source\repos\BinTree\bi.drevo\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="destroy_tree.TestDel" Duration="1" />
+    <TestDuration Test="preorder_print.Testpr" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
